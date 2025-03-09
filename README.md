@@ -1,2 +1,2 @@
 # MovieRecommender-Project
-Training project to develop movie recommendation method
+Training project to develop content-based movie recommendation method
